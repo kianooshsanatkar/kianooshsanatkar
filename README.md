@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Kianoosh Sanatkar(@kianooshsanatkar)
-- 👀 I’m interested in web applications
-- 🌱 I’m currently into python and react
-- 💞️ And I’m looking to collaborate on any REST Single Page web application projects with python or react
-- 📫 just drop a line here or in twitter 
+<div style="background-image: url('http://knsn.ir/static/media/Me3.a508b5e8.png');width: 50%;height: 100vh;background-attachment: fixed;background-position: top;background-repeat: no-repeat;background-size: contain;background-position-x: 10%;background-position-y: 0;display: inline-block;float: left;"></div>
+<div style="
+    width: 50%;
+    display: inline-block;
+    float: left;
+">
+<h1>- 👋 Hi guys, I’m Kianoosh Sanatkar</h1>
+- 👀 Currently, I’m into web applications with python, java, SQL, and no-SQL databases and react for frontend
+- 🌱 I have a strong background in C# but it's quite a while that I do not develop any software with c# anymore 
+- 💞️ I’m looking to collaborate on any microservice (or service-oriented), REST Single Page web application projects with python or java and react
+- 📫 just drop a line here or on Twitter if our interests are aligned ✌
+</div>
+
 
 <!---
 kianooshsanatkar/kianooshsanatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
